@@ -6,9 +6,10 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 System.out.println("Hello World11!");
-		 System.out.println("Hello World22!");
-		 System.out.println("Hello World33!");
+		 int a=95;
+		 if (a>90){
+			 System.out.println("Hello World1!");
+		 }	 
 		 
 	}
 
